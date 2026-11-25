@@ -15,9 +15,10 @@
 
 <img src="https://streak-stats.demolab.com/?user=NaoiseOL&hide_border=true" alt="GitHub streak" />
 
-### 🏆 Trophies
+### 🏆 At a glance
 
-<img src="https://github-profile-trophy.vercel.app/?username=NaoiseOL&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
+![Followers](https://img.shields.io/github/followers/NaoiseOL?style=for-the-badge&logo=github&label=Followers)
+![Public repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNaoiseOL)
 
 ### 📌 Featured projects
 
