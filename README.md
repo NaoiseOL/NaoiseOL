@@ -15,6 +15,15 @@
 
 <img src="https://streak-stats.demolab.com/?user=NaoiseOL&hide_border=true" alt="GitHub streak" />
 
-### 📈 Contribution graph
+### 🏆 Trophies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaoiseOL&hide_border=true" alt="Activity graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=NaoiseOL&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
+
+### 📌 Featured projects
+
+<a href="https://github.com/NaoiseOL/FYP2025-26">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaoiseOL&repo=FYP2025-26&hide_border=true" alt="FYP2025-26" />
+</a>
+<a href="https://github.com/NaoiseOL/IoT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaoiseOL&repo=IoT&hide_border=true" alt="IoT" />
+</a>
